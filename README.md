@@ -1,4 +1,5 @@
-# This repository contains AI chat bot which uses autoregressive transformer language model GPT3 for interaction. Interactions are saved in gpt3_logs.
+# Portel
+Portel is an AI chatbot that is built off GPT-3 and saves message data to use later
 
 1. Create your OpenAI account and get your [OpenAI key] (https://openai.com/api/)
 
